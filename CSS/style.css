@@ -1,0 +1,129 @@
+@font-face {
+    font-family: "Regular";
+    src: url(Fonts/CreatoDisplay-Regular.otf)
+}
+
+h1 {
+    font-family: "Regular";
+    font-size: 70pt;
+    position: absolute;
+    top: -27px;
+    left: 49px;
+}
+
+h2 {
+    font-family: "Regular";
+    font-size: 50pt;
+    position: absolute;
+    top: 80px;
+    left: 313px;
+}
+
+.container {
+    position: absolute;
+    font-family: "Regular";
+    font-size: 15pt;
+    width: 500px;
+    height: 500px;
+    top: 58px;
+    left: 870px;
+}
+
+#category1 {
+    z-index: 1;
+    font-family: "Regular";
+    font-size: 85pt;
+    position: absolute;
+    top: 232px;
+    left: 864px;
+}
+
+#category2 {
+    z-index: 1;
+    font-family: "Regular";
+    font-size: 85pt;
+    position: absolute;
+    top: 311px;
+    left: 653px;
+}
+
+#category3 {
+    z-index: 1;
+    font-family: "Regular";
+    font-size: 85pt;
+    position: absolute;
+    top: 392px;
+    left: 479px;
+    white-space: nowrap;
+}
+
+#category4 {
+    z-index: 1;
+    font-family: "Regular";
+    font-size: 85pt;
+    position: absolute;
+    top: -29px;
+    left: 599px;
+    white-space: nowrap;
+}
+
+.rectangle1 {
+    z-index: 1;
+    background-color: black;
+    width: 3px;
+    height: 573px;
+    position: absolute;
+    top: 170px;
+    left: 152px;
+}
+
+.rectangle2 {
+    z-index: 1;
+    background-color: black;
+    width: 3px;
+    height: 751px;
+    position: absolute;
+    top: -346px;
+    left: 1065px;
+    transform: rotate(90deg);
+}
+
+.rectangle3 {
+    z-index: 1;
+    background-color: black;
+    width: 3px;
+    height: 299px;
+    position: absolute;
+    top: 444px;
+    left: 377px;
+}
+
+.rectangle4 {
+    z-index: 1;
+    background-color: black;
+    width: 3px;
+    height: 391px;
+    position: absolute;
+    top: 32px;
+    left: 1245px;
+    transform: rotate(90deg);
+}
+
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: black;
+}
