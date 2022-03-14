@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "Regular";
+    src: url(Fonts/CreatoDisplay-Regular.otf)
+}
+
+h1 {
+    font-family: "Regular";
+    font-size: 50pt;
+    position: absolute;
+    top: -21px;
+    left: 858px;
+}
+
+
+
+
+
+
+
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(13, 57, 252);
+}
+
+a:active {
+    color: black;
+}

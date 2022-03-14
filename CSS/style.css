@@ -102,10 +102,10 @@ h2 {
     z-index: 1;
     background-color: black;
     width: 3px;
-    height: 391px;
+    height: 751px;
     position: absolute;
-    top: 32px;
-    left: 1245px;
+    top: -346px;
+    left: 1065px;
     transform: rotate(90deg);
 }
 
@@ -121,7 +121,7 @@ a:visited {
 }
 
 a:hover {
-    color: red;
+    color: rgb(13, 57, 252);
 }
 
 a:active {

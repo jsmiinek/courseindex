@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "Regular";
+    src: url(Fonts/CreatoDisplay-Regular.otf)
+}
+
+h1 {
+    font-family: "Regular";
+    font-size: 50pt;
+    position: absolute;
+    top: -21px;
+    left: 858px;
+}
+
+h2 {
+    font-family: "Regular";
+    font-size: 38pt;
+    position: absolute;
+    top: 298px;
+    left: 656px;
+}
+
+img {
+    width: 550px;
+    height: auto;
+    position: absolute;
+    top: 36px;
+    left: 62px;
+}
+
+.container {
+    z-index: 1;
+    font-family: "Regular";
+    font-size: 15pt;
+    position: absolute;
+    top: 418px;
+    left: 654px;
+    width: 500px;
+    height: 500px;
+}
+.rectangle1 {
+    z-index: 1;
+    background-color: black;
+    width: 3px;
+    height: 573px;
+    position: absolute;
+    top: -1px;
+    left: 27px;
+}
+
+.rectangle2 {
+    z-index: -1;
+    background-color: black;
+    width: 3px;
+    height: 675px;
+    position: absolute;
+    top: 269px;
+    left: 947px;
+    transform: rotate(90deg);
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(13, 57, 252);
+}
+
+a:active {
+    color: black;
+}
