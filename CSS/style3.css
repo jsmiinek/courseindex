@@ -11,6 +11,112 @@ h1 {
     left: 858px;
 }
 
+h2 {
+    font-family: "Regular";
+    font-size: 30pt;
+    position: absolute;
+    top: 79px;
+    left: 51px;
+    white-space: nowrap;
+}
+
+h3 {
+    font-family: "Regular";
+    font-size: 30pt;
+    position: absolute;
+    top: 140px;
+    left: 51px;
+}
+
+h4 {
+    font-family: "Regular";
+    font-size: 30pt;
+    position: absolute;
+    top: 757px;
+    left: 51px;
+}
+
+h5 {
+    font-family: "Regular";
+    font-size: 30pt;
+    position: absolute;
+    top: 1378px;
+    left: 51px;
+}
+
+h6 {
+    font-family: "Regular";
+    font-size: 30pt;
+    position: absolute;
+    top: 2073px;
+    left: 51px;
+}
+
+.images {
+    height: auto;
+    position: absolute;
+}
+
+#experiment1 {
+    width: 350px;
+    top: 251px;
+    left: 53px;
+}
+
+#experiment2 {
+    width: 350px;
+    top: 249px;
+    left: 549px;
+}
+
+#experiment3 {
+    width: 300px;
+    top: 244px;
+    left: 1070px;
+}
+
+#firstdraft1 {
+    width: 350px;
+    top: 890px;
+    left: 53px;
+}
+
+#firstdraft2 {
+    width: 350px;
+    top: 890px;
+    left: 549px;
+}
+
+#firstdraft3 {
+    width: 350px;
+    top: 890px;
+    left: 1035px;
+}
+
+#seconddraft1 {
+    width: 350px;
+    top: 1524px;
+    left: 50px;
+}
+
+#seconddraft2 {
+    width: 350px;
+    top: 1524px;
+    left: 550px;
+}
+
+#seconddraft3 {
+    width: 350px;
+    top: 1524px;
+    left: 1038px;
+}
+
+#final {
+    width: 450px;
+    top: 2237px;
+    left: 50px;
+}
+
 a:link {
     color: black;
     text-decoration: none;

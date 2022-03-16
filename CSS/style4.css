@@ -11,11 +11,23 @@ h1 {
     left: 858px;
 }
 
+h2 {
+    font-family: "Regular";
+    font-size: 25pt;
+    position: absolute;
+    top: 80px;
+    left: 40px;
+}
 
-
-
-
-
+.container {
+    position: absolute;
+    font-family: "Regular";
+    font-size: 15pt;
+    width: 800px;
+    height: 500px;
+    top: 171px;
+    left: 41px;
+}
 
 
 a:link {
