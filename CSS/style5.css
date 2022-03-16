@@ -20,6 +20,46 @@ h2 {
     white-space: nowrap;
 }
 
+.images {
+    height: auto;
+    position: absolute;
+}
+
+#sketch1 {
+    width: 504px;
+    top: 200px;
+    left: 18px;
+}
+
+#code1 {
+    width: 449px;
+    top: 173px;
+    left: 569px;
+}
+
+#sketch2 {
+    width: 418px;
+    top: 881px;
+    left: 46px;
+}
+
+#code2 {
+    width: 449px;
+    top: 813px;
+    left: 569px;
+}
+
+#sketch3 {
+    width: 418px;
+    top: 1458px;
+    left: 46px;
+}
+
+#code3 {
+    width: 450px;
+    top: 1539px;
+    left: 569px;
+}
 
 a:link {
     color: black;
