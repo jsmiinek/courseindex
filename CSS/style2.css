@@ -9,6 +9,7 @@ h1 {
     position: absolute;
     top: -21px;
     left: 858px;
+    white-space: nowrap;
 }
 
 h2 {
@@ -16,26 +17,43 @@ h2 {
     font-size: 38pt;
     position: absolute;
     top: 298px;
-    left: 656px;
+    left: 156px;
+    white-space: nowrap;
+
+}
+
+h3 {
+    font-family: "Regular";
+    font-size: 38pt;
+    position: absolute;
+    top: 650px;
+    left: 156px;
+    z-index: 1;
 }
 
 img {
-    width: 550px;
+    width: 450px;
     height: auto;
     position: absolute;
     top: 36px;
-    left: 62px;
+    left: 95px;
 }
 
-.container {
-    z-index: 1;
+.container1 {
     font-family: "Regular";
     font-size: 15pt;
     position: absolute;
     top: 418px;
-    left: 654px;
-    width: 500px;
-    height: 500px;
+    left: 156px;
+}
+.container2 {
+    font-family: "Regular";
+    font-size: 15pt;
+    position: absolute;
+    top: 800px;
+    left: 156px;
+    height: 300px;
+  
 }
 .rectangle1 {
     z-index: 1;
@@ -58,6 +76,27 @@ img {
     transform: rotate(90deg);
 }
 
+.rectangle3 {
+    z-index: -1;
+    background-color: black;
+    width: 3px;
+    height: 693px;
+    position: absolute;
+    top: 600px;
+    left: 429px;
+    transform: rotate(90deg);
+}
+
+.rectangle4 {
+    z-index: 1;
+    background-color: black;
+    width: 3px;
+    height: 545px;
+    position: absolute;
+    top: 491px;
+    left: 1380px;
+}
+
 a:link {
     color: black;
     text-decoration: none;
@@ -69,7 +108,7 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(13, 57, 252);
+    color: rgb(255, 31, 184);
 }
 
 a:active {

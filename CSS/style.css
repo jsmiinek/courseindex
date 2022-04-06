@@ -9,6 +9,7 @@ h1 {
     position: absolute;
     top: -27px;
     left: 49px;
+    white-space: nowrap;
 }
 
 h2 {
@@ -17,6 +18,7 @@ h2 {
     position: absolute;
     top: 80px;
     left: 313px;
+    white-space: nowrap;
 }
 
 .container {
@@ -34,8 +36,8 @@ h2 {
     font-family: "Regular";
     font-size: 85pt;
     position: absolute;
-    top: 232px;
-    left: 864px;
+    top: 258px;
+    left: 687px;
 }
 
 #category2 {
@@ -43,8 +45,9 @@ h2 {
     font-family: "Regular";
     font-size: 85pt;
     position: absolute;
-    top: 311px;
-    left: 653px;
+    top: 373px;
+    left: 515px;
+    white-space: nowrap;
 }
 
 #category3 {
@@ -52,8 +55,8 @@ h2 {
     font-family: "Regular";
     font-size: 85pt;
     position: absolute;
-    top: 392px;
-    left: 479px;
+    top: -2px;
+    left: 633px;
     white-space: nowrap;
 }
 
@@ -121,7 +124,7 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(13, 57, 252);
+    color: rgb(255, 31, 184);
 }
 
 a:active {
