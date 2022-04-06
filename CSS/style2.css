@@ -29,6 +29,7 @@ h3 {
     top: 650px;
     left: 156px;
     z-index: 1;
+    white-space: nowrap;
 }
 
 img {
@@ -45,6 +46,7 @@ img {
     position: absolute;
     top: 418px;
     left: 156px;
+    white-space: nowrap;
 }
 .container2 {
     font-family: "Regular";
@@ -53,6 +55,7 @@ img {
     top: 800px;
     left: 156px;
     height: 300px;
+    white-space: nowrap;
   
 }
 .rectangle1 {
