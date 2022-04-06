@@ -9,6 +9,7 @@ h1 {
     position: absolute;
     top: -21px;
     left: 858px;
+    white-space: nowrap;
 }
 
 h2 {
