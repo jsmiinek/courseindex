@@ -32,15 +32,15 @@ h4 {
     font-family: "Regular";
     font-size: 30pt;
     position: absolute;
-    top: 757px;
-    left: 51px;
+    top: 2560px;
+    left: 53px;
 }
 
 h5 {
     font-family: "Regular";
     font-size: 30pt;
     position: absolute;
-    top: 1378px;
+    top: 4839px;
     left: 51px;
 }
 
@@ -48,7 +48,7 @@ h6 {
     font-family: "Regular";
     font-size: 30pt;
     position: absolute;
-    top: 2073px;
+    top: 7478px;
     left: 51px;
 }
 
@@ -58,64 +58,226 @@ h6 {
 }
 
 #experiment1 {
-    width: 350px;
-    top: 251px;
+    width: 475px;
+    top: 267px;
     left: 53px;
 }
 
+.container {
+    position: absolute;
+    font-family: "Regular";
+    font-size: 15pt;
+    width: 560px;
+    height: 500px;
+}
+
+#ex1 {
+    top: 547px;
+    left: 590px;
+}
+
+
 #experiment2 {
-    width: 350px;
-    top: 249px;
-    left: 549px;
+    width: 475px;
+    top: 1000px;
+    left: 53px;
+}
+
+#ex2 {
+    top: 1322px;
+    left: 590px;
 }
 
 #experiment3 {
-    width: 300px;
-    top: 244px;
-    left: 1070px;
-}
-
-#firstdraft1 {
-    width: 350px;
-    top: 890px;
+    width: 477px;
+    top: 1732px;
     left: 53px;
 }
 
+#ex3 {
+    top: 2044px;
+    left: 590px;
+}
+
+#firstdraft1 {
+    width: 475px;
+    top: 2691px;
+    left: 53px;
+}
+
+#fd1 {
+    top: 2961px;
+    left: 590px;
+}
+
 #firstdraft2 {
-    width: 350px;
-    top: 890px;
-    left: 549px;
+    width: 475px;
+    top: 3425px;
+    left: 53px;
+}
+
+#fd2 {
+    top: 3728px;
+    left: 590px;
 }
 
 #firstdraft3 {
-    width: 350px;
-    top: 890px;
-    left: 1035px;
+    width: 475px;
+    top: 4158px;
+    left: 53px;
+}
+
+#fd3 {
+    top: 4445px;
+    left: 590px;
 }
 
 #seconddraft1 {
-    width: 350px;
-    top: 1524px;
-    left: 50px;
+    width: 475px;
+    top: 4985px;
+    left: 53px;
+}
+
+#sd1 {
+    top: 5309px;
+    left: 590px;
 }
 
 #seconddraft2 {
-    width: 350px;
-    top: 1524px;
-    left: 550px;
+    width: 475px;
+    top: 5828px;
+    left: 53px;
+}
+
+#sd2 {
+    top: 6148px;
+    left: 590px;
 }
 
 #seconddraft3 {
-    width: 350px;
-    top: 1524px;
-    left: 1038px;
+    width: 475px;
+    top: 6687px;
+    left: 53px;
+}
+
+#sd3 {
+    top: 7042px;
+    left: 590px;
 }
 
 #final {
-    width: 450px;
-    top: 2237px;
-    left: 50px;
+    width: 475px;
+    top: 7646px;
+    left: 53px;
 }
+
+#fin {
+    top: 7929px;
+    left: 590px;
+}
+
+.rectangle1 {
+    z-index: 1;
+    background-color: black;
+    width: 3px;
+    height: 714px;
+    position: absolute;
+    top: 6811px;
+    left: 1085px;
+    transform: rotate(90deg);
+}
+
+.rectangle2 {
+    z-index: -1;
+    background-color: black;
+    width: 3px;
+    height: 675px;
+    position: absolute;
+    top: 113px;
+    left: 1101px;
+    transform: rotate(90deg);
+}
+
+.rectangle3 {
+    z-index: -1;
+    background-color: black;
+    width: 3px;
+    height: 693px;
+    position: absolute;
+    top: 910px;
+    left: 798px;
+    transform: rotate(90deg);
+}
+
+.rectangle4 {
+    z-index: 1;
+    background-color: black;
+    width: 3px;
+    height: 873px;
+    position: absolute;
+    top: 5633px;
+    left: 853px;
+    transform: rotate(90deg);
+}
+
+
+.rectangle5 {
+    z-index: -1;
+    background-color: black;
+    width: 3px;
+    height: 917px;
+    position: absolute;
+    top: 7673px;
+    left: 518px;
+    transform: rotate(90deg);
+}
+
+
+.rectangle6 {
+    z-index: -1;
+    background-color: black;
+    width: 3px;
+    height: 693px;
+    position: absolute;
+    top: 2561px;
+    left: 798px;
+    transform: rotate(90deg);
+}
+
+.rectangle7 {
+    z-index: -1;
+    background-color: black;
+    width: 3px;
+    height: 693px;
+    position: absolute;
+    top: 3498px;
+    left: 1161px;
+    transform: rotate(90deg);
+}
+
+.rectangle8 {
+    z-index: -1;
+    background-color: black;
+    width: 3px;
+    height: 693px;
+    position: absolute;
+    top: 4268px;
+    left: 798px;
+    transform: rotate(90deg);
+}
+
+.rectangle9 {
+    z-index: -1;
+    background-color: black;
+    width: 3px;
+    height: 693px;
+    position: absolute;
+    top: 4899px;
+    left: 1103px;
+    transform: rotate(90deg);
+}
+
+
 
 a:link {
     color: black;
